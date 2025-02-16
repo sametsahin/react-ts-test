@@ -4,4 +4,6 @@ run commands
     create .env and put it into the .gitignore
     git add .
     git commit -m "first commit desc"
-    
+    git branch -M main
+    git remote add origin https://github.com/sametsahin/react-ts-test.git
+    git push -u origin main
