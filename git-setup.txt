@@ -1,0 +1,7 @@
+create a repo on github
+run commands
+    git init
+    create .env and put it into the .gitignore
+    git add .
+    git commit -m "first commit desc"
+    
