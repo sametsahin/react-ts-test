@@ -1,1 +1,1 @@
-# Example of React + TypeScript + Tailwindcss +Vite
+# Example of React + TypeScript + Tailwindcss + Vite

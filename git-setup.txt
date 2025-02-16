@@ -1,5 +1,5 @@
 create a repo on github
-run commands
+Setup github on your env
     git init
     create .env and put it into the .gitignore
     git add .
@@ -7,3 +7,7 @@ run commands
     git branch -M main
     git remote add origin https://github.com/sametsahin/react-ts-test.git
     git push -u origin main
+
+check status of your project.
+    git status
+
